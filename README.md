@@ -18,6 +18,5 @@
 ## 扫码下载页面地址
 
 
-![地址戳我](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/index.html)
+[地址戳我](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/index.html)
 
-![二维码](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/erweima.png)
