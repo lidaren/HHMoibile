@@ -20,3 +20,6 @@
 
 [地址戳我](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/index.html)
 
+
+![](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/erweima.png)
+
