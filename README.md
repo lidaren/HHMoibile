@@ -13,4 +13,11 @@
 
  2、发布IPA的路径: <br>
  \<key\>url\</key\> 标签对应的 \<string\>xxx.ipa\</string\> 内容为新的路径。（如果路径、IPA文件名字没变，则不需要修改）<br>
- 备注：url ：存放IPA安装包的路径地址
+ 备注：url ：存放IPA安装包的路径地址<br>
+
+## 扫码下载页面地址
+
+
+![地址戳我](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/index.html)
+
+![二维码](http://60.212.43.251:6200/MicroStrategyMobile/plugins/UpdateVersionTask/jsp/erweima.png)
